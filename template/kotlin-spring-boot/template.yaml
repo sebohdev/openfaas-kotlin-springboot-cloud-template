@@ -1,0 +1,3 @@
+language: kotlin-spring-boot
+welcome_message: |
+  You have created a function using the kotlin spring boot template which uses an LTS version of the OpenJDK.
